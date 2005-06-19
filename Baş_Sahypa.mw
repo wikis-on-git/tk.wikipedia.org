@@ -1,20 +1,21 @@
-'''Türkmençe Wikipediýa''':Türkmen wikipediýaçylarynyň doldurmaly bölümi. Eger siz bu bölümde ýazmak isleýän bolsaňyz [[Ýörelgeler]]i okaň.
-<br>
-<h2 style="text-align: center">Türkmenistan hakynda</h1>
-<table>
+'''Türkmençe Wikipediýa''':Türkmen wikipediýaçylarynyň doldurmaly bölümi. Eger siz bu bölümde ýazmak isleýän bolsaňyz [[Ýörelgeler]]i okaň.<hr>
+<table width="100%">
 <tr>
-<td>[[Image:Gerb.jpg|100px|thumb|left|Türkmenistanyň gerbi]]
-[[Image:Flag.jpg|145px|thumb|left|Türkmenistanyň baýdagy]]
-</td>
-</tr>
+<td valign=top>
+<table height="100%" width="100%" cellpadding=5>
+<tr>
+<td valign=top>
+[[Image:Gerb.jpg|100px|thumb|left|Türkmenistanyň gerbi]]
+[[Image:Flag.jpg|145px|thumb|left|Türkmenistanyň baýdagy]]<br>
+</td></tr>
+<tr>
+<td valign=top bgcolor="fff3f3" height="100%">'''MUNY BILMEK GYZYKLY'''<br>
+[[Türkmen milli oýunlary]]
+</td></tr>
 </table>
-{| cellspacing="1" 
-|- valign="top" 
-|width="55%" class="MainPageBG" style="border: 0px solid #ffc9c9; color: #000000; background-color: #FFF8DC"|
-<div style="clear:left; text-align: left; float: right;">[[Image:Gerb.jpg|100px|thumb|left|Türkmenistanyň gerbi]]
-[[Image:Flag.jpg|145px|thumb|left|Türkmenistanyň baýdagy]]
-</div>
-<div style="clear:left; text-align: left; float: left; padding: .4em .9em .9em">Administratiw maglumatlar<br>
+</td>
+<td bgcolor="FFF8DC">
+<div style="clear:left; text-align: left; float: left; padding: .4em .9em .9em">'''Türkmenistan'''<br> Administratiw maglumatlar<br>
 [[Welaýatlar]]<br>
 [[Etraplar]]<br>
 [[Şäherler]]<br><br>
@@ -30,8 +31,9 @@ Tebigat<br>
 [[Daglar]]<br>
 [[Goraghanalar]]<br>
 </div>
-|}
-
+</td>
+</tr>
+</table>
 {|
 |-
 | align="left" valign="top" style="background:#F0F8FF; padding:10px"|
