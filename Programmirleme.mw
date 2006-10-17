@@ -1,0 +1,36 @@
+              '''C++ Programmirleme- 1-nji sapak 
+                     Dev-C++ Ýüklemek'''
+
+Programmirleme dilini öwrenmegiň iň gowy ýoly, ony ulanyp programma ýazmakdyr. Ýazan
+programmalarymyzy barlap görmek üçin bize Dew-Ç++ gerek bolar we birinji etmeli işimiz, şol
+programmany oz kömpýüterimizde işletmek.
+ 
+  Ol programmany internet-den şu salgydan alyp bilersiňiz.
+''' http://surfnet.dl.sourceforge.net/sourceforge/dev-cpp/devcpp-4.9.9.2_setup.exe'''
+
+ Dev-C++ Programmasy.
+Birinji Programmamyzy ýazalyň
+1. Dew-C++ açyn,
+2. File -> New -> Source File girin ýada CTRL+N
+3. Täze açylan ýer, C++ programmasy ýazylýan ýer. Şol ýerik aşakdaky bölegi göçürin. Edil bolşy
+görçürmegiňiz zerurdyr. Baş-setir (uly,kiçi) harplar tapawut edýär.
+C++ Programmirleme- 1-nji sapak (http://www.tmolympiad.org/)
+/* menin birinji programmam */
+#include<iostream>
+#include<cstdlib>
+using namespace std;
+int main()
+{
+cout << "Salam! Men C++ owrenyarin!!!" << endl;
+system("pause");
+return 0;
+}
+
+
+4. Bu faýly ýatda sakladyn. File -> Save. Ýada CTRL+S. Özüniz bir at berin
+5. Ýazan programmamyzy işledelin. Execute -> Compile & Run. Ýada F9
+6. Siz “Salam! Men C++ owrenyarin!!!!” Ýazgysyny we “Press any key to continue ...”
+ýazgysyny görmeli. Bu işlap duran biziň ýazan programmamyz.
+7. Çykmak üçin her haýsy duwma basyn.
+
+  Şulary edip bilen bolsanyz ýeterlik. Indi Ikinji sapaga garaşyn!
