@@ -1,11 +1,13 @@
 '''Türkmençe Wikipediýa''':Türkmen wikipediýaçylarynyň doldurmaly bölümi. Eger siz bu bölümde ýazmak isleýän bolsaňyz [[Ýörelgeler]]i okaň. '''{{NUMBEROFARTICLES}}''' sahypa bar! *Administrator bolmak üçin [[Wikipedia:Administrators]]<hr>
 
+[[Wikipedia:Mazmuny|Mazmuny]]
+
 <inputbox>type=search2
 width=20%
 buttonlabel=Git
 searchbuttonlabel=Git
 break=no
-</inputbox>
+</inputbox> 
 
 <table width="100%">
 <tr>
