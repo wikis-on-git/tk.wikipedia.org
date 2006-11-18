@@ -2,7 +2,7 @@
 
 <inputbox>type=search2
 width=20%
-buttonlabel=Gözle
+buttonlabel=Git
 searchbuttonlabel=Git
 break=no
 </inputbox>
