@@ -1,1 +1,1 @@
-<math>I = \int_0^\infty f(x)\,dx</math> bilen <math>\int_0^\infty \left|f(x)\right|,dx</math>
+<math>I = \int_0^\infty f(x)\,dx</math> bilen <math>\int_0^\infty \left|f(x)\right|\,dx</math>
