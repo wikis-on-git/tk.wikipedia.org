@@ -1,0 +1,10 @@
+'''Absolýut ululyk''' (''modul'') - hakyky sanyň Absolýut ululygy san pložitel alamatda bolanda onuň özüne, san otrissatel alamatda bolsa, onuň garşylykly ululygyna deň. San nola deň bolanda, onuň Absolýut ululygy hem nola deň. ''a'' sanyň Absolýut ululygy <math>\left|a\right|</math> bilen bellenilýär. 
+==Myslallar==
+1) <math>\left|-15\right| = \left|+15\right| = 15</math><br><br>
+2) <math>\left|0\right| = 0</math>
+<br><br>
+3) <math> a + bi </math> kompleks sanyň (''a'' we ''b'' hakyky sanlar) Absolýut ululygy (ýa-da moduly) <math> + \sqrt{a^2 + b^2}</math> deň.
+
+Meselem: <math>\left|i\right| = \left|-i\right| = 1</math>;<math>\left|4+3i\right| = 5</math>
+
+[[Category:Matematika]] [[Category::Algebra]]
