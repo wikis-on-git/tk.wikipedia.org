@@ -10,15 +10,15 @@ and ulanan wagtyn, 2 tarapy hem dogry bolsa, onda if icine giryar.
 Or ulanan wagtyn, 2 tarapdan haysy hem bolsa biri yada ikisi hem dogry bolsa onda giryar.
 Sagat==5 or sagat==6 diyen wagtyn, sagat 5 bolsa yada sagat 6 bolsa ishleyar, yogsada girenok.
 And hem shonyn yali, yone ikisi hem dogry bolmaly.
-Kabir programmalar
-string at, parol;
-cout << “adyn name?” << endl;
-cin >> at;
-cout << “parol> ” << endl;
-cin >> parol;
-if( at==”atamyrat” and parol==”1133567” ) {
-cout << “geciber dogry” << endl;
-} else {
-cout << “parol yalnysh!” << endl;
+Kabir programmalar</br>
+string at, parol;</br>
+cout << “adyn name?” << endl;</br>
+cin >> at;</br>
+cout << “parol> ” << endl;</br>
+cin >> parol;</br>
+if( at==”atamyrat” and parol==”1133567” ) {</br>
+cout << “geciber dogry” << endl;</br>
+} else {</br>
+cout << “parol yalnysh!” << endl;</br>
 }
 [[Category:Informatika]]
