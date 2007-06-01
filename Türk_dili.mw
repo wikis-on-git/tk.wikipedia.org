@@ -1,27 +1,31 @@
 Andoluya gelen Oguzlarin  Turk lehçesi.Ayrica Kuzey İrak,Suiye,İran,Kibrista ve 
 balkanlardaki turk cemiyyetlerinde konusmakta boldugu dildir.75milyon turk bu dili konusmaktadir.Thmini sayisi 100 milyon civarindadir.Turkmen ve azeri diline cok yakindir.
 
-men = ben                           geliyorum=gelyarin
-sen=sen                            geliyorsun=gelyarsin 
-ol=o                                 geliyor=gelyar   
-biz=biz                             geliyoruz=gelyaris 
-siz=siz                              geliyorsunuz=gelyarsiniz  
-olar=onlar                           geliyorlar=gelyarlar
+:men = ben   
+:sen=sen  
+:ol=o        
+:biz=biz
+:siz=siz   
+:olar=onlar        
+:geliyorum=gelyarin                          
+:geliyorsun=gelyarsin                               
+:geliyor=gelyar                             
+:geliyoruz=gelyaris                            
+:geliyorsunuz=gelyarsiniz                       
+:geliyorlar=gelyarlar
 
-
-
-ene=ana
-burun=burun
-qol=kol
-yol=yol
-semiz=semiz
-topraq=toprak
-qan=kan
-suw=su
-aq=ak
-qara=kara
-qyzyl=kizil
-kok=gok
-dyrnaq=tIrnak
+:ene=ana
+:burun=burun
+:qol=kol
+:yol=yol
+:semiz=semiz
+:topraq=toprak
+:qan=kan
+:suw=su
+:aq=ak
+:qara=kara
+:qyzyl=kizil
+:kok=gok
+:dyrnaq=tırnak
 
 [[Category:Diller]]
