@@ -10,7 +10,8 @@ and ulanan wagtyn, 2 tarapy hem dogry bolsa, onda if icine giryar.
 Or ulanan wagtyn, 2 tarapdan haysy hem bolsa biri yada ikisi hem dogry bolsa onda giryar.
 Sagat==5 or sagat==6 diyen wagtyn, sagat 5 bolsa yada sagat 6 bolsa ishleyar, yogsada girenok.
 And hem shonyn yali, yone ikisi hem dogry bolmaly.
-Kabir programmalar</br>
+Kabir programmalar:</br>
+
 string at, parol;</br>
 cout << “adyn name?” << endl;</br>
 cin >> at;</br>
