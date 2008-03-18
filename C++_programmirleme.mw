@@ -3,12 +3,12 @@ and we or if-in icinde kop zat denesdirmek ucin ulanyp bolyar. And diymek “we�
 “ya-da” diymek.
 Meselem,
 sagat 5 yada 6 bolsa,
-if( sagat==5 or sagat==6 )
+if( sagat==5 || sagat==6 )
 ady meret bolsa we sagat 7 bolsa
-if( ady==”meret” and sagat==7 )
+if( ady==”meret” && sagat==7 )
 and ulanan wagtyn, 2 tarapy hem dogry bolsa, onda if icine giryar.
 Or ulanan wagtyn, 2 tarapdan haysy hem bolsa biri yada ikisi hem dogry bolsa onda giryar.
-Sagat==5 or sagat==6 diyen wagtyn, sagat 5 bolsa yada sagat 6 bolsa ishleyar, yogsada girenok.
+Sagat==5 || sagat==6 diyen wagtyn, sagat 5 bolsa yada sagat 6 bolsa ishleyar, yogsada girenok.
 And hem shonyn yali, yone ikisi hem dogry bolmaly.
 Kabir programmalar:</br>
 
@@ -17,7 +17,7 @@ cout << “adyn name?” << endl;</br>
 cin >> at;</br>
 cout << “parol> ” << endl;</br>
 cin >> parol;</br>
-if( at==”atamyrat” and parol==”1133567” ) {</br>
+if( at==”atamyrat” && parol==”1133567” ) {</br>
 cout << “geciber dogry” << endl;</br>
 } else {</br>
 cout << “parol yalnysh!” << endl;</br>
