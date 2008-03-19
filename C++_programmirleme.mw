@@ -12,27 +12,28 @@ ady meret bolsa we sagat 7 bolsa:   if( ady==”meret” && sagat==7 )
 
 Sagat==5 || sagat==6 diyen wagtyn, sagat 5 bolsa yada sagat 6 bolsa ishleyar, yogsada girenok.
 And hem shonyn yali, yone ikisi hem dogry bolmaly.
-Kabir programmalar:</br>
+Kabir programmalar:
+<pre>
+string at, parol;              // iki sany stringy declare etdik 
 
-string at, parol;              // iki sany stringy declare etdik</br>  
+cout << “adyn name?” << endl;  // adyny sorayarys
 
-cout << “adyn name?” << endl;  // adyny sorayarys</br>
+cin >> at;                     // at atly stringy alyarys
 
-cin >> at;                     // at atly stringy alyarys</br>
+cout << “parol ” << endl;     // paroliny sorayarys
 
-cout << “parol> ” << endl;     // paroliny sorayarys </br> 
-
-cin >> parol;                  // parol atly stringy alyarys</br>
+cin >> parol;                  // parol atly stringy alyarys
 
 
-//IF-ELSE KOMANDASY </br>
+//IF-ELSE KOMANDASY
 
-if( at==”atamyrat” && parol==”1133567” )              // ady atamyrat bolsa '''we''' paroly 1133567 bolsa</br>
-   {  </br>
-    cout << “geciber dogry” << endl;</br>             // monitor "geciber dogry" gorkezer
-   }  </br>
-else 
-   {</br>                                           // yokorky if bolumi dogry bolmasa (ady we paroly dogry bolmasa)
-    cout << “parol yalnysh!” << endl;</br>          // monitor "parol yalnysh!" gorkezer
+if( at==”atamyrat” && parol==”1133567” )              // ady atamyrat bolsa '''we''' paroly 1133567 bolsa
+   {
+    cout << “geciber dogry” << endl;           // monitor "geciber dogry" gorkezer
    }
+else 
+   {                                          // yokorky if bolumi dogry bolmasa (ady we paroly dogry bolmasa)
+    cout << “parol yalnysh!” << endl;          // monitor "parol yalnysh!" gorkezer
+   }
+</pre>
 [[Category:Informatika]]
