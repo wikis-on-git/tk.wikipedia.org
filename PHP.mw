@@ -1,5 +1,6 @@
 == PHP ==
- - HTML kodlarynyng arasynda ulanylylyp bilinyan, esasan hem Web gelisdirmede ginisleyin ulanylyan script dilidir.
+ - HTML kodlarynyng arasynda ulanylylyp bilinyan, 
+   esasan hem Web gelisdirmede ginisleyin ulanylyan script dilidir.
 
 <?php
 
