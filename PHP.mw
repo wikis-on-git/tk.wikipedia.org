@@ -1,0 +1,8 @@
+== PHP ==
+ - HTML kodlarynyng arasynda ulanylylyp bilinyan, esasan hem Web gelisdirmede ginisleyin ulanylyan script dilidir.
+
+<?php
+
+PHP, HTML kodlarynyng arasynda ya-da ozbashdak ulanilanda shu taglering ('''<?php''': tag acilyar '''?>''': tag yapilyar) icinde yazylyar.
+
+?>
