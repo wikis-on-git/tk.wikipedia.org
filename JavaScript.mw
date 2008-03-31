@@ -1,0 +1,19 @@
+== Javascript ==
+ esasen hem client-side web gelistirmede ulanylyan script dilidir. 
+ Dinamik, prototip-esasly dildir. Javascript, Java mengzeyan (yone Java daldir) we 
+ esasan hem programlama bilmeyan adamlar ucin 
+ gelisdirilen script dilidir.
+
+
+== Meselem: ==
+
+ //HTML kodlarining arasinda ulanilyan hali
+ <html>
+ <body>
+ // asakdaki setirdaki kod script dilinin 
+ //Javascriptdigini gorkezyar.
+ <script type="text/javascript">  
+ document.write("Salam Wikipedia okayjilari!"); 
+  </script> 
+ </body>
+ </html>
