@@ -9,7 +9,7 @@ Dinamik, prototip-esasly dildir. Javascript, Java meňzeýän (yöne Java däldi
 // aşakdaki setirdäki kod yazuw dilinin 
 //Javascriptdigini görkezýär.
 <script type="text/javascript">  
-document.write("Salam Wikipedia okayjilari!"); 
+document.write("Salam Wikipedia okaýyjylary!"); 
 </script> 
 </body>
 </html>
