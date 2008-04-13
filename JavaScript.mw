@@ -1,13 +1,13 @@
-Esasen hem client-side web gelistirmede ulanylyan script dilidir. 
-Dinamik, prototip-esasly dildir. Javascript, Java mengzeyan (yone Java daldir) we esasan hem programlama bilmeyan adamlar ucin gelisdirilen script dilidir.
+Esasan hem klient taraply web gelişdirmede ulanylýan ýazuw dilidir. 
+Dinamik, prototip-esasly dildir. Javascript, Java meňzeýän (yöne Java däldir) we esasan hem programlama bilmeýän adamlar ucin gelişdirilen yazuw dilidir.
 
 == Meselem: ==
 <pre>
-//HTML kodlarining arasinda ulanilyan hali
+//HTML kodlarynyň arasinda ulanylýan hali
 <html>
 <body>
-// asakdaki setirdaki kod script dilinin 
-//Javascriptdigini gorkezyar.
+// aşakdaki setirdäki kod yazuw dilinin 
+//Javascriptdigini görkezýär.
 <script type="text/javascript">  
 document.write("Salam Wikipedia okayjilari!"); 
 </script> 
