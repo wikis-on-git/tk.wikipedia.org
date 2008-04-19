@@ -1,0 +1,23 @@
+'''HTML''' - (''Hyper Text Markup Language''): Internetde ginisleyin ulanylyan ''script'' (tekst) dilidir. Programlama dili hokmunde kabul edilmeyar, sebabi oz basina islap bilmeyar. HTML ulanylyp yazylan programlar ya-da tekstler interpreter-ing komegi bilen terjime edilip isledilyar.
+W3C (Butundunya konsortium) tarapyndan standartlashdyrylandyr.
+
+
+
+==HTML Kod==
+Html kodlary, '''<HTML>''' tag-i bilen acylyar '''</HTML>''' tag-i bilen hem yapylyar. Butun kod bu 2 taglering arasynda yazylyar. 
+<br />Meselem:
+<pre>
+<html>                           
+ <head>                         
+   <title>Bu bizim ilkinji HTML kodymyz</title> 
+ </head>                        
+ <body>                         
+   <p>                          
+     Salam Wikipedia
+     <b>Goyy harplar bilen yazylyar</b>
+     <i>Egri ince harplar</i>
+     <b><i>Goyy ince</i></b>
+   </p>                           
+ </body> 
+</html>                            
+</pre>
