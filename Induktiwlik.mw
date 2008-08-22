@@ -1,11 +1,34 @@
-'''INDUKTIWLIK''' (lat. Indiçtio-gönükdirme, inetleme) - elektrik zynjyrýýn magnit häsiýetlerini aňladýan fiziki ululyk. Geçiriji konturda akýan tok töwerekdäki giňişlikde magnit meýdanyny döredýär, şonda konturyn içinden geçýän magnit akymy (F) togun güýjüne (I) göni proporsionlardyr: F=LI Proporsionallyk koeffisientine (L) I. ýa-da konturyn samoinduksiýa koeffisienti diýilýär. I. konturyn ölçeglerine we formasyna, sheýle hem onuň ýerleşen seredasynyň magnit syzyjylygyna baglydyr. Birlikleriň halkara sistamasynda (seret) I-in birligine genri (gn) diýilýär. SGS birlikler sistemasynda (seret) I-in uzynlyk ölçegi bar, shonun üçin hem bu sistemada I-in birligine sm diýilýär döreýän somoinduksiýanyn ehg-I (E) I-in üsti bilen anladylýar:
-<img src="http://img246.imageshack.us/img246/5398/drobjg8.jpg">
-(-togun wagtyn dowamynda üýtgemegi). Togun berlen güýjünden I. togun magnit meýdanynyň energiýasyny (w) kesgitleýär:
-<img src="http://img142.imageshack.us/img142/8398/drob2xq4.jpg">
-I.näçe köp bolanda, tokly konturyn toweregindki ginishlikde jemlenýän magnit energiýasy hem shonça köpdür. Eger elektriki we mehaňyky hadysalaryň arasynda menzeshlik bar bolsa, onda magnit energiýasy kinetiç energiýasy:
-<img src="http://img143.imageshack.us/img143/7769/drob3ln9.jpg">
-Bilen deneshdirilmelidir (bu ýerde m=jisimiň massasy, W=onuň hereketiniň tizligi) . Diýmek I. massasynyň roluny tok bolsa tizliginiň roluny oýnaýar. Netijede I. togun inersiýa häsiýetlerini kesgitleýär.
+'''Induktiwlik''' (lat. Indiçtio-gönükdirme, inetleme) - elektrik zynjyrýýn magnit häsiýetlerini aňladýan fiziki ululyk. Geçiriji konturda akýan tok töwerekdäki giňişlikde magnit meýdanyny döredýär, şonda konturyn içinden geçýän magnit akymy (F) togun güýjüne (I) göni proporsionlardyr: F=LI Proporsionallyk koeffisientine (L) I. ýa-da konturyn samoinduksiýa koeffisienti diýilýär. I. konturyn ölçeglerine we formasyna, sheýle hem onuň ýerleşen seredasynyň magnit syzyjylygyna baglydyr. Birlikleriň halkara sistamasynda (seret) I-in birligine genri (gn) diýilýär. SGS birlikler sistemasynda (seret) I-in uzynlyk ölçegi bar, shonun üçin hem bu sistemada I-in birligine sm diýilýär döreýän somoinduksiýanyn ehg-I (E) I-in üsti bilen anladylýar.
+(-togun wagtyn dowamynda üýtgemegi). Togun berlen güýjünden I. togun magnit meýdanynyň energiýasyny (w) kesgitleýär.
+I.näçe köp bolanda, tokly konturyn toweregindki ginishlikde jemlenýän magnit energiýasy hem shonça köpdür. Eger elektriki we mehaňyky hadysalaryň arasynda menzeshlik bar bolsa, onda magnit energiýasy kinetiç energiýasy. Bilen deneshdirilmelidir (bu ýerde m=jisimiň massasy, W=onuň hereketiniň tizligi) . Diýmek I. massasynyň roluny tok bolsa tizliginiň roluny oýnaýar. Netijede I. togun inersiýa häsiýetlerini kesgitleýär.
 
 [[Category:Fizika]]
 
+[[af:Induktansie]]
+[[ar:محاثة تبادلية]]
+[[ca:Inductància]]
+[[cs:Indukčnost]]
+[[de:Induktivität]]
+[[en:Inductance]]
+[[eo:Induktanco]]
+[[es:Inductancia]]
+[[fi:Induktanssi]]
+[[gl:Indutancia]]
+[[he:השראות]]
+[[hr:Induktivitet]]
+[[is:Span]]
+[[it:Induttanza]]
+[[ja:インダクタンス]]
+[[ko:인덕턴스]]
+[[lv:Induktivitāte]]
+[[ms:Induktans]]
+[[nl:Zelfinductie]]
+[[no:Induktans]]
+[[pl:Indukcyjność]]
+[[pt:Indutância]]
 [[ru:Индуктивность]]
+[[sl:Induktivnost]]
+[[sv:Induktans]]
+[[ta:தூண்டம்]]
+[[uk:Індуктивність]]
+[[zh:电感]]
