@@ -1,0 +1,24 @@
+
+
+== ANTIWIRUS ==
+Kompýuter wiruslar we “ogry” programmalar
+Wiruslaryň howpy köplenç çişirilip görkezilýär. Köp wiruslar kompýutere uly zyýan ýetirip bilmeýärler, olar diňe kä-wagt özüni bildirýäler we köpelip, biderek ýer tutýarlar.
+Öňki zamanalarda çykýan wiruslar köplenç özüni has erbet bildirýärdi: kompýuteri işlemez ýaly edýärdiler ýa-da mydama bir habar çykaryp durýardylar (meselem: I LOVE YOU). Olary ýönekeý höwesjeňler we öwrenjeler ýazýardylar.
+Şu wagt çykýan wiruslary köplenç professionallar ýazýarlar, olar özüni kän bildirenoklar, maglumat ogurlaýarlar ýa-da başga keseki adama öz kompýutere control etmäge ýol berýäler (malware).
+Antiwirus kompaiýalar özleri gizlinlikde wiruslaryň köpüsini döredýärler diýen pikir bar.
+
+Arassa antiwirus programma aslynda diňe wiruslara garşý göreşýär.
+Firewall programmalar diňe “ogry” programmalara (malware) we hakerlere garşy göreşýär.
+Meşgur uly antiwirus programmalar üç bölege bölünýärler:
+Hemişelik barlaýjy, kompýuteriň açýan we işleýän faýllaryň ählisini barlap durýar.
+INTERNET barlaýjy – web-saýtlary we email barlaýar.
+SKANER – diňe kompýuteriň görkezilen ýerini (diski, USB) barlaýar, soň öçýär.
+Antiwirus programmalaryň aralarynda uly tapawut ýok. Iň möhüm zat – olar täzelenen (soňky “obnowleniýe” - UPDATE) bolmaly. Köne “obnowleniýesi” bolan antiwirus täze çykan wiruslary tutmaýar. Eger kompýuter Internete çatylmadyk bolsa, tanyşlardan täze antiwirus bazasyny alyp, antiwirusy 3-4 aýda bir gezek täzeleseň ýeterlidir.
+
+Kä-bir antiwiruslar kompýuteriň ähli zadyny barlaýarlar, emma “agyr” işleýäler, prosessoryň güýjüni köp alýarlar: Kasperskiy, Norton.
+Öýde ýeňil we çalt işleýän antiwiruslary ulanmak amatly: Dr. Web, NOD.
+Internetden mugt we oňat hilli antiwiruslary alyp hem bolýar: AVG.
+Mundan başgada ähli antiwiruslaryň kiçeldilen SKANER görnüşini mugt alyp bolýar. SKANER täzelenip bilmeýär, şonuň üçin ol wagt bilen köneleşýär.
+Köp ökde kompýuterçler antiwirusy asla ulananoklar,ýa-da ony öçürip goýýarlar. Antiwirus kompýuteriň tizligini gowşadýar, şonuň üçin ony diňe başga ýerden gümana disk açaňda ýa-da Internete gireňde açmak amatly. Kompýuteriň özüni bolsa hepdede bir-iki gezek SKANER bilen barlatmak ýeterlidir.
+
+link  http://en.wikipedia.org/wiki/Antivirus
