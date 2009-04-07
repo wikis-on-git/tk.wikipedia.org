@@ -1,6 +1,14 @@
-MySQL acik kaynak kodlu bir veritabani sistemi olup, SUN firmasi tarafindan gelistirilmektedir. MySQL temel SQL komutlarini desteklemekte olup, Tablo (Table), Görüntü (View) , Prosedür (Procedure) gibi veritabani nesnelerini destekler.
+MySQL acik kaynak kodlu bir veritabani sistemi olup, SUN firmasi tarafindan gelistirilmektedir. MySQL iliskisel bir veritabani  sistemidir( relational database management system - RDBMS) ve temel SQL komutlarini desteklemekte olup, Tablo (Table), Görüntü (View) , Prosedür (Procedure) gibi veritabani nesnelerini destekler.
 
 MySQL hizli ve kolay kullanimi sayesinde, özellikle internet tabanli yazilimlarda kullanilmakta ve bu sebeble büyük bir kullanici topluluguna sahiptir.
+
+== Temel Özellikleri ==
+* Tablo
+* View
+* Proceudre
+* Trigger
+* Cursor
+
 
 == Baglantilar ==
 http://www.mysql.com
