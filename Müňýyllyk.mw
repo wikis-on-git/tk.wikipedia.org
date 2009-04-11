@@ -5,8 +5,8 @@
 <tr>
 <td style="border: 1px solid black; background: gray">2 BC</td>
 <td style="border: 1px solid black; background: gray">1 BC</td>
-<td style="border: 1px solid black"> AD 1 </td>
-<td style="border: 1px solid black"> AD 2 </td>
+<td style="border: 1px solid black"> B.e. 1 </td>
+<td style="border: 1px solid black"> B.e. 2 </td>
 <td style="border: 1px solid black"> 3 </td>
 <td style="border: 1px solid black"> 4 </td>
 <td style="border: 1px solid black"> 5 </td>
@@ -30,9 +30,9 @@
 <td style="border: 1px solid black; background: gray;"> 3002 </td></tr>
 <tr>
 <td colspan="2" style="border: 1px solid black; background: gray;"></td>
-<td colspan="9"  style="border: 1px solid black; background: yellow;">First one thousand years (millennium)</td>
-<td colspan="6" style="border: 1px solid black; background: orange;">Second millennium</td>
-<td colspan="6" style="border: 1px solid black; background: red;">Third millennium</td>
+<td colspan="9"  style="border: 1px solid black; background: yellow;">Birinji müň ýyl (müňýyllyk)</td>
+<td colspan="6" style="border: 1px solid black; background: orange;">Ikinji müňýyllyk</td>
+<td colspan="6" style="border: 1px solid black; background: red;">Üçünji müňýyllyk</td>
 <td colspan="2" style="border: 1px solid black; background: gray;"></td>
 </tr>
 </table>
