@@ -9,7 +9,7 @@ PHP, HTML kodlarynyng arasynda ya-da ozbashdak ulanilanda shu taglering ('''<?ph
 ?>
 
 PHP kop wagtdan bari ulanylyp gelinyan dinamik web programirleme dilidir. Wagtyn gecmegi bilen webde kop sanly tehnologiyar we softwarelar (PHP Framework) peyda boldy. Bularyn kopisi PHP ulanylyp yazylandyr. Bu frameworklerin maksady gysga wagtyn icinde kop isi yerine getirmekdir.
-<br>Asakda bu frameworklerden kabirleri: </br>
+<br />Asakda bu frameworklerden kabirleri: </br>
 
 <ul>
     <li>[[CakePHP]]</li>
@@ -64,6 +64,7 @@ PHP kop wagtdan bari ulanylyp gelinyan dinamik web programirleme dilidir. Wagtyn
 [[lb:PHP]]
 [[lt:PHP]]
 [[lv:PHP]]
+[[mg:PHP]]
 [[mk:PHP]]
 [[ml:പി.എച്ച്.പി.]]
 [[mn:PHP]]
