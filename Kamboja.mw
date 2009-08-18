@@ -1,16 +1,16 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0.5em 0 1em 1em; background: #ffffff; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''[[Image:Official_name_of_Cambodia.png|350px]]'''</big></big>
+|+<big><big>'''[[File:Official_name_of_Cambodia.png|350px]]'''</big></big>
 |-
 | style="background:#ffffff;" align=center colspan=2 |
 {| border=0 cellpadding=2 cellspacing=0
-| align=center width=148 | [[Image:Flag of Cambodia.svg|125px|Kamboçiýa baýdagy]]
+| align=center width=148 | [[File:Flag of Cambodia.svg|125px|Kamboçiýa baýdagy]]
 | align=center width=148 | 
 |-
 | align=center width=148 | [[Kamboçiýa baýdagy]]
 | align=center width=148 | [[Kamboçiýa gerbi]]
 |}
 |-
-| align=center colspan=2 style="background: #ffffff;" | [[Image:LocationCambodia.png|right|350px|]]
+| align=center colspan=2 style="background: #ffffff;" | [[File:LocationCambodia.png|right|350px|]]
 |-
 | '''[[Paýtagt]]'''
 | [[Pnompen]]
@@ -19,10 +19,10 @@
 | [[Norodom Sihamoni]]
 |-
 | '''[[Dil]]'''
-| [[Kamboja dili|Kamboja dili]]
+| [[Kamboja dili]]
 |-
 | '''[[Gimn]]'''
-| [[Image:Kh-Motto.png]]
+| [[File:Kh-Motto.png]]
 |-
 | '''[[Yüzölçümü]]'''
 | 
@@ -33,7 +33,7 @@
 |-
 |-
 | '''[[Pul]]'''
-| [[Riel]]  (KHR)
+| [[Riel]] (KHR)
 |-
 | '''[[Wagt]]'''
 | [[UTC]] +7
@@ -50,6 +50,7 @@ Goňşy [[döwlet]]ler: [[Taýland]], [[Wýetnam]], [[Laos]] we [[Hytaý]].
 
 [[Category:Aziýa]]
 
+[[ace:Kamboja]]
 [[af:Kambodja]]
 [[als:Kambodscha]]
 [[an:Cambocha]]
