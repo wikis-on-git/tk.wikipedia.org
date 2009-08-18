@@ -3,14 +3,14 @@
 |-
 | style="background:#ffffff;" align=center colspan=2 |
 {| border=0 cellpadding=2 cellspacing=0
-| align=center width=148 | [[Image:Flag of Laos.svg|125px|Laos baýdagy]]
-| align=center width=148 | [[Image:Laos coa.png|100px|Laos gerbi]]
+| align=center width=148 | [[File:Flag of Laos.svg|125px|Laos baýdagy]]
+| align=center width=148 | [[File:Laos coa.png|100px|Laos gerbi]]
 |-
 | align=center width=148 | [[Laos baýdagy]]
 | align=center width=148 | [[Laos gerbi]]
 |}
 |-
-| align=center colspan=2 style="background: #ffffff;" | [[Image:LocationLaos.svg|right|250px|]]
+| align=center colspan=2 style="background: #ffffff;" | [[File:LocationLaos.svg|right|250px|]]
 |-
 | '''[[Paýtagt]]'''
 | [[Wýentýan]]
@@ -19,7 +19,7 @@
 | [[Choummaly Sayasone]]
 |-
 | '''[[Dil]]'''
-| [[Laos dili|Laos dili]]
+| [[Laos dili]]
 |-
 | '''[[Gimn]]'''
 | [[Pheng Xat Lao]]
@@ -48,10 +48,11 @@
 Goňşy [[döwlet]]ler: [[Taýland]], [[Wýetnam]], [[Kamboja]] we [[Hytaý]].
 
 
-[[Image:LaosCarte.gif|thumb|left|288px|Laos]]
+[[File:LaosCarte.gif|thumb|left|288px|Laos]]
 
 [[Category:Aziýa]]
 
+[[ace:Laos]]
 [[af:Laos]]
 [[als:Laos]]
 [[an:Laos]]
