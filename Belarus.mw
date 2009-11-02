@@ -1,10 +1,99 @@
+{{Infobox Country
+|native_name = <span style="line-height:1.33em;">Рэспубліка Беларусь<br />Республика Беларусь<br />Republic of Belarus</span>
+|common_name = Belarus
+|image_flag = Flag_of_Belarus.svg
+|image_coat = Coat of arms of Belarus.svg
+|symbol_type = National emblem
+|image_map = Location Belarus Europe.png
+|map_caption =
+|national_anthem = Мы, беларусы<small>([[Belarusian language|Belarusian]])</small><br />''[[My Belarusy|My, Belarusy]]''<small>([[transliteration]])<br />''We Belarusians''</small>
+|official_languages = [[Belarusian language|Belarusian]], [[Russian language|Russian]]
+|demonym = [[Belarusians|Belarusian]]
+|capital = [[Minsk]]
+|latd=53 |latm=55 |latNS=N |longd=27 |longm=33 |longEW=E
+|largest_city = capital
+|government_type = [[Presidential republic]]
+|leader_title1 = [[President of Belarus|President]]
+|leader_name1 = [[Alexander Lukashenko]]
+|leader_title2 = [[List of Belarusian Prime Ministers|Prime Minister]]
+|leader_name2 = [[Sergey Sidorsky]]
+|sovereignty_type = [[Independence]]
+|sovereignty_note = from the [[Soviet Union]]
+|established_event1 = Declared
+|established_date1 = 27 July 1990
+|established_event2 = Established
+|established_date2 = 25 August 1991
+|established_event3 = Completed
+|established_date3 = 25 December 1991
+|area_km2 = 207600
+|area_sq_mi = 80155 <!--Do not remove [[WP:MOSNUM]]-->
+|area_rank = 85th
+|area_magnitude = 1 E11
+|percent_water = negligible (2.830&nbsp;km²)<sup>1</sup>
+|population_estimate = 9,689,800<ref>[http://belstat.gov.by/homep/ru/news/press_%20conference/press-conference.doc The Ministry of Statistics and Analysis of the Republic of Belarus]</ref>
+|population_estimate_year = 2008
+|population_estimate_rank = 86th
+|population_census = 10,045,200
+|population_census_year = 1999
+|population_density_km2 = 46.7
+|population_density_sq_mi = 120.8 <!--Do not remove [[WP:MOSNUM]]-->
+|population_density_rank = 142nd
+|GDP_PPP = $119.096 billion<ref name=imf2>[http://www.imf.org/external/pubs/ft/weo/2009/02/weodata/weorept.aspx?sy=2006&ey=2009&scsm=1&ssd=1&sort=country&ds=.&br=1&c=913&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=36&pr.y=20 International Monetary Fund, 2009-10-01]</ref>
+|GDP_PPP_rank = 58th
+|GDP_PPP_year = 2008
+|GDP_PPP_per_capita = $12,313<ref name=imf2/>
+|GDP_PPP_per_capita_rank = 65th
+|GDP_nominal_year   = 2008
+|GDP_nominal        = $60.302 billion<ref name=imf2/>
+|GDP_nominal_per_capita   = $6,234<ref name=imf2/>
+|Gini = 29.7
+|Gini_year = 2002
+|Gini_category = <font color="#009900">low</font>
+|HDI_year = 2006
+|HDI = {{increase}} 0.817
+|HDI_rank = 67th
+|HDI_category = <font color="#009900">high</font>
+|currency = [[Belarusian ruble]]
+|currency_code = BYR
+|time_zone = [[Eastern European Time|EET]]
+|utc_offset = +2
+|time_zone_DST = [[Eastern European Summer Time|EEST]]
+|utc_offset_DST = +3
+|drives_on=right 
+|cctld = [[.by]]
+|calling_code = 375
+|footnote1=[http://www.fao.org/nr/water/aquastat/countries/belarus/index.stm FAO's Information System on Water and Agriculture]
+}}
 '''Belarus''', bir [[döwlet]] [[Ýewropa]]'da.
 
-== Link ==
+[[Faýl:Europe_location_BLR.png|300px]]
 
-* [[Litva]]
+<imagemap>
+Image:Subdivisions_of_Belarus.png|thumb|Административное деление Белоруссии (при нажатии на изображенную область осуществляется переход на соответствующую статью)
 
-[[Category:Belarus]]
+poly 87 73 67 40 84 39 99 52 129 52 130 80 110 89 110 125 84 126 70 113 70 85 63 68 73 52 86 73 87 83 93 86 101 84 104 80 104 73 102 69 95 68 90 70 [[:ru:Минская область]]
+poly 7 157 8 137 0 130 11 119 15 114 28 114 31 108 40 108 40 112 50 105 54 94 67 96 68 113 82 122 90 135 89 156 53 144 23 146 [[:ru:Брестская область]]
+poly 90 157 91 136 86 131 90 124 110 126 136 109 137 96 163 97 170 105 180 136 164 140 157 165 [[:ru:Гомельская область]]
+poly 15 114 11 74 36 72 50 63 64 39 75 51 67 66 70 95 55 93 44 111 33 107 28 114 [[:ru:Гродненская область]]
+poly 110 120 110 90 130 82 130 63 164 56 196 90 188 103 168 102 141 97 135 109 [[:ru:Могилёвская область]]
+poly 67 37 73 15 102 0 149 11 158 21 163 54 130 63 130 52 101 52 [[:ru:Витебская область]]
+circle 97 79 10 [[Minsk]]
+
+desc bottom-left
+</imagemap>
+==People==
+[[Faýl:Image-Belarusion_GDP_grow_(1995-~2008).png|Темп роста ВВП с 1995 по 2007 и оценка на 2008 (в процентах)]]
+==References==
+<references/>
+
+==Link==
+*[[Litva]]
+*[[Russiýa]]
+
+*[[Uniwersiteti]]:
+**[[Belarusiýaň Döwlet Informatika we Radioelektronika Uniwersiteti]]
+
+[[Kategoriýa:Belarus]]
 
 [[ace:Bèlarusia]]
 [[af:Wit-Rusland]]
