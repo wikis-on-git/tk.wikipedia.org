@@ -1,50 +1,73 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0.5em 0 1em 1em; background: #ffffff; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Nigeria'''<br/>'''Republic of Nigeria'''</big></big>
-|-
-| style="background:#ffffff;" align=center colspan=2 |
-{| border=0 cellpadding=2 cellspacing=0
-| align=center width=148 | [[Faýl:Flag of Nigeria.svg|125px|Nigeria baýdagy]]
-| align=center width=148 | 
-|-
-| align=center width=148 | [[Nigeria baýdagy]]
-| align=center width=148 | [[Nigeria gerbi]]
-|}
-|-
-| align=center colspan=2 style="background: #ffffff;" | [[Faýl:LocationNigeria.svg|250px]]
-|-
-| '''[[Paýtagt]]'''
-| [[Abuja]]
-|-
-| '''[[Prezident]]'''
-| [[Umaru Yar'adua]]
-|-
-| '''[[Dil]]'''
-| [[Iňlisçe]]
-|-
-| '''[[Gimn]]'''
-| [[Nigeria gimni|Arise O Compatriots, Nigeria's Call Obey]]
-|-
-| '''[[Yüzölçümü]]'''
-| 923 768 km&sup2;
-|-
-| '''[[Ilat]]'''<br/>&nbsp;– ilat/km&sup2;
-| 128 771 988<br/>&nbsp;139/km&sup2;
-|-
-| '''[[Garaşsyzlyk]]'''
-| [[1 Oktýabr]], [[1960]]
-|-
-| '''[[Pul]]'''
-| [[Naira]]
-|-
-| '''[[Wagt]]'''
-| [[UTC]] +1<br/>[[UTC]] +2
-|-
-| '''[[Telefon kod]]'''
-| 234
-|-
-| '''[[Internet TLD]]'''
-| .ng
-|}
+{{Infobox Country
+|native_name              = ''Republik Nijeriya''<br />''Republic ndi Naigeria''<br />''Republik Federaal bu Niiseriya''<br />''Orílẹ̀-èdè Olómìnira Àpapọ̀ ilẹ̀ Naìjírìà'' {{Yo icon}}<br />''جمهورية نيجيريا''
+|conventional_long_name   = Nigeriýa Federal Respublikasy
+|common_name              = Nigeriýa
+|image_flag               = Flag of Nigeria.svg
+|image_coat               = Coat of arms of nigeria.png
+|image_map                = LocationNigeria.svg
+|national_motto           = "Agzybirlik we Ynanç, Parahatçylyk we Ösüş"
+|national_anthem          = "[[Arise, O Compatriots]]"
+|official_languages       = [[Niger iňlis dilisi|iňlis dili]], [[hausa dili]], [[igbo dili]], [[ýoruba dili]]
+|regional_languages       = [[Nigeriýanyň dilleri]]
+|capital                  = [[Abuja]]
+|largest_city             = [[Lagos]]
+|government_type          = [[Federal prezident respublikasy]]
+|leader_title1            = [[Prezident]]
+|leader_name1             = [[Umaru Yar'Adua]]
+|area_rank                = 32-nji
+|area_magnitude           = 1_E11  
+|area_km2                 = 923,768
+|area_sq_mi               = 356,667 <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water            = 1.4
+|population_estimate      = 154,729,000
+|population_estimate_rank = 8-nji
+|population_estimate_year = 2009
+|population_census        = 
+|population_census_year   = 
+|population_density_km2   = 167.5
+|population_density_sq_mi = 433.8 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank  = 71-nji
+|GDP_PPP                  = $319.572 milliard
+|GDP_PPP_rank             = 
+|GDP_PPP_year             = 2008
+|GDP_PPP_per_capita       = $2,162
+|GDP_PPP_per_capita_rank  = 
+|GDP_nominal              = $207.116 milliard
+|GDP_nominal_rank         = 
+|GDP_nominal_year         = 2008
+|GDP_nominal_per_capita   = $1,401
+|GDP_nominal_per_capita_rank =
+|HDI                      = {{increase}} 0.511 
+|HDI_rank                 = 158-nji
+|HDI_year                 = 2007
+|HDI_category             = <font color="#ffcc00">ortaça</font>
+|FSI                      = 95.6 {{increase}} 1.2
+|FSI_year                 = 2007
+|FSI_rank                 = 17-nji
+|FSI_category             = <span style="color:#F00;">Alert</span> 
+|Gini                     = 43.7
+|Gini_year                = 2003
+|Gini_category            = <span style="color:#fc0;">ortaça</span>
+|currency                 = [[Naýra]] (₦)
+|currency_code            = NGN
+|country_code             = NGA
+|time_zone                = [[Günbatar Afrika wagty|GAW]]
+|utc_offset               = +1
+|time_zone_DST            = ''bellenilmeýär''
+|utc_offset_DST           = +1
+|demonym                  = nigeriýaly 
+|sovereignty_type         = Garaşsyzlyk
+|sovereignty_note         = Beýik Britaniýadan
+|established_event1       = [[Günorta Nigeriýa|Günorta]] we [[Demirgazyk Nigeriýa]]nyň birleşmegi
+|established_date1        = [[1914]]
+|established_event2       = Yglan we ykrar edildi
+|established_date2        = 1 oktýabr, 1960
+|established_event3       = Respublika yglan edildi
+|established_date3        = 1 oktýabr, 1963
+|drives_on                = sag 
+|cctld                    = [[.ng]]
+|calling_code             = 234
+}}
 
 '''Nigeria''', bir [[döwlet]] ([[respublika]]) [[Afrika]]'da.
 
