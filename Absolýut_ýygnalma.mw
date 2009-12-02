@@ -1,7 +1,7 @@
 '''Absolýut ýygnalma''' - hatarlaryň we integrallaryň ýygnalma görnüşi. Eger-de san hatarlarynyň '''(<math>u_1 + u_2 + ...u_n + ...</math>)''' çlenleriniň absolýut ululyklaryndan düzülen hatar '''<math>\left|u_1\right| + \left|u_2\right| + ... + \left|u_n\right| + ...</math>''' ýygnalsa, onda ol san hatarlaryna absolýut ýygnalýan hatar diýilýär. Absolýut ýygnalýan hatarlaryň häsiýetleri gutarnykly jemleriň häsiýetlerine meňzeşdir. Goşmak we çlenme-çlen köpeltmek boýunça absolýut ýygnalan hatarlar halka emele getirýär.
 Eger <math>I = \int_0^\infty f(x)\,dx</math> bilen birlikde <math>I = \int_0^\infty \left|f(x)\right|\,dx</math> ýygnalsa, onda '''''I'''''-e absolýut ýygnalan integral diýilýär.
 
-[[Category:Matematika]] [[Category:Algebra]] [[Category:Integrallar]]
+[[Kategoriýa:Matematika]] [[Kategoriýa:Algebra]] [[Kategoriýa:Integrallar]]
 
 [[bs:Apsolutna konvergencija]]
 [[de:Absolute Konvergenz]]
@@ -9,6 +9,7 @@ Eger <math>I = \int_0^\infty f(x)\,dx</math> bilen birlikde <math>I = \int_0^\in
 [[eo:Absoluta konverĝo]]
 [[es:Convergencia absoluta]]
 [[fr:Convergence absolue]]
+[[nl:Absolute convergentie]]
 [[pl:Szereg (matematyka)#Zbieżność bezwzględna i warunkowa]]
 [[ru:Абсолютная сходимость]]
 [[sv:Absolutkonvergens]]
