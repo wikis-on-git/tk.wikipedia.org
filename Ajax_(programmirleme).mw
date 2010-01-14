@@ -1,8 +1,8 @@
-[[Image:Ajax.png|300px|thumb|right|Ajax]]
-<strong>AJAX</strong> (Asynchronous [[JavaScript]] And [[XML]]) -  taze programirleme dili dal, eysem has gowy, ansat, tiz, interaktiv web application doretmek ucin ulanylyan metod/teknikdir.  [[JavaScript]]'in [[XMLHttpRequest]] obyektini ulanyp, Ajax bilen sizin JavaScriptiniz server bilen goni habarlasip bilyar. [[XMLHttpRequest]]-ing komegi bilen JavaScript, sahypany tazelemezden web server bilen habarlasyar.
+[[Faýl:Ajax.png|300px|thumb|right|Ajax]]
+'''AJAX''' (Asynchronous [[JavaScript]] And [[XML]]) - taze programirleme dili dal, eysem has gowy, ansat, tiz, interaktiv web application doretmek ucin ulanylyan metod/teknikdir. [[JavaScript]]'in [[XMLHttpRequest]] obyektini ulanyp, Ajax bilen sizin JavaScriptiniz server bilen goni habarlasip bilyar. [[XMLHttpRequest]]-ing komegi bilen JavaScript, sahypany tazelemezden web server bilen habarlasyar.
 
 Ajax - web server softweyrinden garassyz browser tehnologiyasydyr.
-<br>AJAX asakdaky web standartlaryndan esaslandyrylandyr:
+<br />AJAX asakdaky web standartlaryndan esaslandyrylandyr:
 <ul>
     <li>[[JavaScript]]</li>
     <li>[[XML]]</li>
@@ -12,7 +12,7 @@ Ajax - web server softweyrinden garassyz browser tehnologiyasydyr.
 
 [[af:AJAX]]
 [[ar:أجاكس]]
-[[bg:AJAX]]
+[[bg:Ajax]]
 [[bn:এজ্যাক্স (ওয়েব প্রোগ্রামিং কৌশল)]]
 [[ca:Ajax (programació)]]
 [[cs:AJAX]]
