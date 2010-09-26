@@ -16,8 +16,8 @@ Birinji Programmamyzy ýazalyň
 görçürmegiňiz zerurdyr. Baş-setir (uly,kiçi) harplar tapawut edýär.
 C++ Programmirleme- 1-nji sapak (http://www.tmolympiad.org/)
 /* menin birinji programmam */
-#include<iostream>
-#include<cstdlib>
+# include<iostream>
+# include<cstdlib>
 using namespace std;
 int main()
 {
@@ -69,7 +69,7 @@ return 0;
 [[ko:컴퓨터 프로그래밍]]
 [[lt:Programavimas]]
 [[ml:കംപ്യൂട്ടർ പ്രോഗ്രാമിങ്ങ്]]
-[[mn:Компьютер программчлал]]
+[[mn:Програмчлал]]
 [[ms:Pengaturcaraan]]
 [[nl:Programmeren]]
 [[no:Programmering]]
