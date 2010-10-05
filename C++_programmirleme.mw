@@ -3,9 +3,9 @@
  "||" we "&&" if -in icinde kop zat denesdirmek ucin ulanyp bolyar. "&&" diymek “we” diymek, "||" diymek
 “ya-da” diymek.
 Meselem,
-sagat 5 yada 6 bolsa:               if( sagat==5 || sagat==6 )
+sagat 5 yada 6 bolsa: if( sagat==5 || sagat==6 )
 
-ady meret bolsa we sagat 7 bolsa:   if( ady==”meret” && sagat==7 )
+ady meret bolsa we sagat 7 bolsa: if( ady==”meret” && sagat==7 )
 
    "&&" ulanan wagtyn, 2 tarapy hem dogry bolsa, onda if icine giryar;
    "||" ulanan wagtyn, 2 tarapdan haysy hem bolsa biri yada ikisi hem dogry bolsa onda giryar;
@@ -36,11 +36,13 @@ else
     cout << “parol yalnysh!” << endl;          // monitor "parol yalnysh!" gorkezer
    }
 </pre>
-[[Category:Informatika]]
+
+[[Kategoriýa:Informatika]]
 
 [[af:C++]]
 [[an:C++]]
 [[ar:سي++ (لغة برمجة)]]
+[[arz:سى++]]
 [[az:C++]]
 [[bat-smg:C++]]
 [[be:C++]]
