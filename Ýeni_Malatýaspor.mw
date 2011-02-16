@@ -42,34 +42,176 @@
 
 == Kadro ==
 
- no=2  | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=DF | ismi=[[Mehmet Tosak]]
- no=3  | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=DF | ismi=[[Can Ulun]]
- no=4  | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=DF | ismi=[[Adem Sağlam]]
- no=5  | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=OS | ismi=[[Nedim Köseoğlu]]
- no=6  | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=OS | ismi=[[Serdar Karkın]]
- no=9  | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=FW | ismi=[[Hüseyin Kartal]]
- no=10 | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=OS | ismi=[[Yusuf Yağmur]]
- no=11 | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=FW | ismi=[[Müslüm Karabulut]]
- no=14 | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=DF | ismi=[[Gür Ege Gürel]]
- no=17 | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=FW | ismi=[[Recep Yaşar]]
- no=19 | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=DF | ismi=[[Erkan Levent]]
- no=22 | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=OS | ismi=[[Mehmet Düz]]
- no=25 | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=OS | ismi=[[Mehmet Akif Tatlı]]
- no=26 | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=OS | ismi=[[Hüseyin Kar]]
- no=28 | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=OS | ismi=[[Bülent Akın]]
- no=29 | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=DF | ismi=[[Ümit Aydemir]]
- no=30 | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=DF | ismi=[[Gökhan Çalışal]]
- no=34 | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=GK | ismi=[[Mesut Balkan]]
- no=35 | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=DF | ismi=[[Serkan Ençetin]]
- no=39 | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=FW | ismi=[[Önder Dalkıran]]
- no=45 | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=DF | ismi=[[Gökhan Sinanoğlu]]
- no=49 | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=OS | ismi=[[Cem Çetin]]
- no=53 | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=OS | ismi=[[Tuncay Maldan]]
- no=61 | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=OS | ismi=[[Enis Kahraman]]
- no=77 | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=FW | ismi=[[Cihan Yeşilırmak]]
- no=81 | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=KL | ismi=[[Eray Çalışkan]]
- no=87 | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=OS | ismi=[[Uğur Yanıkdemir]]
- no=-- | Üýt= [[Faýl:Flag_of_Turkey.svg|20px]] | pos=KL | ismi=[[Ergül Kurt]]
+{| class="wikitable"
+|- 
+!'''no'''
+!'''ismi'''
+!'''Üýt'''
+!'''Pos'''
+!
+!
+!'''no'''
+!'''ismi'''
+!'''Üýt'''
+!'''Pos'''
+|-
+|- ! style="background:#F9F9F9;"
+| 2
+| [[Mehmet Tosak]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  DF
+| 
+| 
+| 28
+| [[Bülent Akın]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  MF
+|-
+|- ! style="background:#F9F9F9;"
+| 3
+| [[Can Ulun]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  DF
+|
+|
+| 29
+| [[Ümit Aydemir]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  DF
+|- ! style="background:#F9F9F9;"
+| 4
+| [[Adem Sağlam]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  DF
+|
+|
+| 30
+| [[Gökhan Çalışal]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  DF
+|- ! style="background:#F9F9F9;"
+| 5
+| [[Nedim Köseoğlu]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  MF
+|
+|
+| 34
+| [[Mesut Balkan]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+| GK
+|- ! style="background:#F9F9F9;"
+| 6
+| [[Serdar Karkın]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  MF
+|
+|
+| 35
+| [[Serkan Ençetin]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  DF
+|- ! style="background:#F9F9F9;"
+| 9
+| [[Hüseyin Kartal]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  FW
+|
+|
+| 39
+| [[Önder Dalkıran]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  FW
+|- ! style="background:#F9F9F9;"
+| 10
+| [[Yusuf Yağmur]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  MF
+|
+|
+| 45
+| [[Gökhan Sinanoğlu]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  DF
+|- ! style="background:#F9F9F9;"
+| 11
+| [[Müslüm Karabulut]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  FW
+|
+|
+| 49
+| [[Cem Çetin]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  MF
+|- ! style="background:#F9F9F9;"
+| 14
+| [[Gür Ege Gürel]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  DF
+|
+|
+| 53
+| [[Tuncay Maldan]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  MF
+|- ! style="background:#F9F9F9;"
+| 17
+| [[Recep Yaşar]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  FW
+|
+|
+| 61
+| [[Enis Kahraman]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  MF
+|- ! style="background:#F9F9F9;"
+| 19
+| [[Erkan Levent]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  DF
+|
+|
+| 77
+| [[Cihan Yeşilırmak]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+| FW
+|- ! style="background:#F9F9F9;"
+| 22
+| [[Mehmet Düz]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  MF
+|
+|
+| 81
+| [[Eray Çalışkan]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  GK
+|- ! style="background:#F9F9F9;"
+| 25
+| [[Mehmet Akif Tatlı]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  MF
+|
+|
+| 87
+| [[Uğur Yanıkdemir]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  MF
+|- ! style="background:#F9F9F9;"
+| 26
+| [[Hüseyin Kar]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  MF
+|
+|
+| --
+| [[Ergül Kurt]]
+| [[Faýl:Flag_of_Turkey.svg|20px]]
+|  GK
+
+|}
 
 {{Türkiýe Futbol Ligasy}}
 [[Kategoriýa:Türkiýede Futbol]]
