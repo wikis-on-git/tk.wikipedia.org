@@ -1,5 +1,101 @@
-Firewall (Otdiwar)- Kompýuter ulgamyny (Computer Network) Kürseýjiden (intruder) goramak üçin ýöriteleşdirilen enjamdyr (device). Otdiwar (Firewall), software ýa-da hardware, hat-da her ikisem bolup biler.[[Faýl:
-<gallery>
-Firewall.png
-</gallery>
-]]
+Firewall (Otdiwar)- Kompýuter ulgamyny (Computer Network) Kürseýjiden (intruder) goramak üçin ýöriteleşdirilen enjamdyr (device). Otdiwar (Firewall), software ýa-da hardware, hat-da her ikisem bolup biler.
+[[File:Firewall.png|thumb|300px|An illustration of where a firewall would be located in a network.]]
+[[Image:Gufw 9.04.PNG|thumb|300px|An example of a user interface for a firewall on [[Ubuntu (operating system)|Ubuntu]] ([[GUI for Uncomplicated Firewall|Gufw]])]]
+
+== Okamaga Dowam Et ==
+* [[Access control list]]
+* [[Amazingports]]
+* [[Bastion host]]
+* [[Circuit-level gateway]]
+* [[Comparison of firewalls]]
+* [[Computer security]]
+* [[Egress filtering]]
+* [[End-to-end connectivity]]
+* [[Firewall pinhole]]
+* ''[[Firewalls and Internet Security]]'' (book)
+* [[Golden Shield Project]] (aka Great Firewall of China)
+* [[List of Linux router or firewall distributions]]
+* [[Mangled packet]]
+* [[Vulnerability scanner|network reconnaissance]]
+* [[Packet (information technology)|Packet]]
+* [[Personal firewall]]
+* [[Sandbox (computer security)]]
+* [[Screened-subnet firewall]]
+* [[Stateful firewall]]
+* [[Unified threat management]]
+* [[Virtual firewall]]
+
+== References ==
+{{Reflist|2}}
+
+{{Firewall software}}
+{{malware}}
+
+<!--[[pb:ਫਾਯਰਵਾਲ (ਕੰਪਿਉਟਰ)]]-->
+
+{{DEFAULTSORT:Firewall (Computing)}}
+[[Category:Computer network security]]
+[[Category:Firewall software| ]]
+[[Category:Packets (information technology)]]
+[[Category:Data security]]
+[[Category:Cyberwarfare]]
+
+{{Link GA|de}}
+
+[[ar:جدار ناري]]
+[[az:Qoruyucu divar (kompüter)]]
+[[bn:ফায়ারওয়াল (কম্পিউটার নেটওয়ার্কিং)]]
+[[zh-min-nan:Hoé-piah]]
+[[bs:Hardverski firewall]]
+[[bg:Защитна стена]]
+[[ca:Tallafocs]]
+[[cs:Firewall]]
+[[da:Firewall]]
+[[de:Firewall]]
+[[et:Tulemüür (informaatika)]]
+[[el:Firewall]]
+[[es:Cortafuegos (informática)]]
+[[eo:Fajroŝirmilo]]
+[[eu:Suebaki (informatika)]]
+[[fa:فایروال]]
+[[fr:Pare-feu (informatique)]]
+[[gl:Devasa]]
+[[ko:방화벽 (네트워킹)]]
+[[hi:फ़ायरवॉल (नेटवर्किंग)]]
+[[hsb:Firewall]]
+[[hr:Sigurnosna stijena]]
+[[id:Firewall]]
+[[it:Firewall]]
+[[he:חומת אש]]
+[[kk:Желіаралық қалқан]]
+[[lv:Ugunsmūris]]
+[[lb:Firewall]]
+[[hu:Tűzfal (számítástechnika)]]
+[[mk:Огнен ѕид]]
+[[ml:ഫയര്‍വാള്‍]]
+[[ms:Tembok api]]
+[[my:မီးတံတိုင်း (တွက်ချက်ခြင်း)]]
+[[nl:Firewall]]
+[[ja:ファイアーウォール]]
+[[no:Brannmur]]
+[[mhr:Файрвол]]
+[[pl:Zapora sieciowa]]
+[[pt:Firewall]]
+[[ro:Paravan de protecție (informatică)]]
+[[ru:Межсетевой экран]]
+[[simple:Firewall (networking)]]
+[[sk:Firewall]]
+[[sl:Požarni zid]]
+[[ckb:ئاگرەدیوار]]
+[[sr:Заштитни зид]]
+[[sh:Sigurnosna stena]]
+[[fi:Palomuuri]]
+[[sv:Brandvägg]]
+[[ta:தீச்சுவர் (வலையமைப்பு)]]
+[[th:ไฟร์วอลล์]]
+[[tr:Ateş duvarı]]
+[[uk:Мережевий екран]]
+[[ur:دیوارش]]
+[[vi:Tường lửa]]
+[[yi:פייער מויער]]
+[[zh:防火墙 (计算机)]]
