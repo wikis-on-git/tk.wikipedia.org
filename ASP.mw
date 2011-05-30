@@ -114,6 +114,11 @@ Eger bir ASP.NET programmasy ýat syzdyrsa, ASP.NET iş-wagtyýalňyşly program
 ASP.NET-däki sessiýa ýagdaýyny Microsoft SQL Server maglumat bazasyna, ýa-da web-serwer hökmünde şol bir kompýuterde ýa-da başga bir kompýuterde aýratyn bir prosese ýazdyryp bolýar. Şeýlelikde, web-serwer nol edilen ýa-da ASP.NET işçi prosesi resirkulirlenen mahaly, sessiýa bahalary ýitmeýär.
 2.0-dan öňki ASP.NET wersiýalary standartlara utgaşykly däldikleri sebäpli tankyt edilipdi. Öndürilip, müşderi brauzere iberilen HTML we JavaScript hemişe W3C/ECMA standartlaryna gabat gelip durmaýardy. Mindan başga-da, karkasyň brauzer tapyş funksiýasy kämahallar Microsoft-yň öz Internet Explorer-inden başga web-brauzerleri ýalňyşlyk bilen "irki wersiýada" diýip kesgitleýärdi, we bu müşderilere HTML/JavaScript käbir funksiýalary aýrylyp, ýa-da käwagtlar hatardan çykarylyp gaýtarylýardy. Şeýle hem bolsa, 2.0 wersiýasynda, saýtyň konfigurasiýasyna laýyklykda ähli kontrollar abat HTML 4.0, XHTML 1.0 (gaýybana) ýa-da XHTML 1.1 netijesini öndürýär. Standartlara utgaşykly web-brauzerleri tapmaklayk has ygtybarly,  Cascading Style Sheets goldawy bolsa, has giňişleýin.<br />
 
-Web-serwer kontrollary: Bular web-formalara ulanyjy interfeýs üpjün etmek üçin ASP.NET tarapyndan işe girizilen kontrollardyr. Bu kontrollar ýagdaý-dolandyryşly kontrollardyr WYSIWYG kontrollarydyr.<br />
+Web-serwer kontrollary: Bular web-formalara ulanyjy interfeýs üpjün etmek üçin ASP.NET tarapyndan işe girizilen kontrollardyr. Bu kontrollar ýagdaý-dolandyryşly kontrollardyr WYSIWYG kontrollarydyr.<br /><br />
+<br />
+<br />
+<br />
+<br />
+
 Serdar Artykow tarapyndan yazylan!!!! <br />
 Hehey okanyňyz üçin sag boluň!
