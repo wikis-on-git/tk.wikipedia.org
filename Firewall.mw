@@ -1,6 +1,6 @@
 Firewall (Otdiwar)- Kompýuter ulgamyny (Computer Network) Kürseýjiden (intruder) goramak üçin ýöriteleşdirilen enjamdyr (device). Otdiwar (Firewall), software ýa-da hardware, hat-da her ikisem bolup biler.
-[[File:Firewall.png|thumb|300px|An illustration of where a firewall would be located in a network.]]
-[[Image:Gufw 9.04.PNG|thumb|300px|An example of a user interface for a firewall on [[Ubuntu (operating system)|Ubuntu]] ([[GUI for Uncomplicated Firewall|Gufw]])]]
+[[Faýl:Firewall.png|thumb|300px|An illustration of where a firewall would be located in a network.]]
+[[Faýl:Gufw 9.04.PNG|thumb|300px|An example of a user interface for a firewall on [[Ubuntu (operating system)|Ubuntu]] ([[GUI for Uncomplicated Firewall|Gufw]])]]
 
 == Okamaga Dowam Et ==
 * [[Access control list]]
@@ -34,11 +34,11 @@ Firewall (Otdiwar)- Kompýuter ulgamyny (Computer Network) Kürseýjiden (intrud
 <!--[[pb:ਫਾਯਰਵਾਲ (ਕੰਪਿਉਟਰ)]]-->
 
 {{DEFAULTSORT:Firewall (Computing)}}
-[[Category:Computer network security]]
-[[Category:Firewall software| ]]
-[[Category:Packets (information technology)]]
-[[Category:Data security]]
-[[Category:Cyberwarfare]]
+[[Kategoriýa:Computer network security]]
+[[Kategoriýa:Firewall software| ]]
+[[Kategoriýa:Packets (information technology)]]
+[[Kategoriýa:Data security]]
+[[Kategoriýa:Cyberwarfare]]
 
 {{Link GA|de}}
 
@@ -67,7 +67,7 @@ Firewall (Otdiwar)- Kompýuter ulgamyny (Computer Network) Kürseýjiden (intrud
 [[hr:Sigurnosna stijena]]
 [[hsb:Firewall]]
 [[hu:Tűzfal (számítástechnika)]]
-[[id:Firewall]]
+[[id:Tembok api]]
 [[it:Firewall]]
 [[ja:ファイアーウォール]]
 [[kk:Желіаралық қалқан]]
